@@ -24,3 +24,6 @@ This is a simple console program written in C++ that decodes Morse code into Eng
 
 The program uses the following mapping of Morse code characters to English characters:
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
